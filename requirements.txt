@@ -17,7 +17,7 @@ flask-login==0.5.0
 flask-mail==0.9.1
 flask-sqlalchemy==2.4.3
 flask-wtf==0.14.3
-flask==1.1.2
+flask==2.2.5
 greenlet==1.1.2; python_version >= '3.0' and platform_machine == 'aarch64' or (platform_machine == 'ppc64le' or (platform_machine == 'x86_64' or (platform_machine == 'amd64' or (platform_machine == 'AMD64' or (platform_machine == 'win32' or platform_machine == 'WIN32')))))
 idna==3.3; python_version >= '3.5'
 importlib-metadata==4.11.2; python_version < '3.8'
